@@ -8,9 +8,9 @@
 ---
 
 ### :man_technologist: About Me :
-qwqdanchun,a redteam developer
+mave12 Exploit Developer
 
-- 📫 How to reach me: &nbsp; https://www.qwqdanchun.com
+- 📫 How to reach me: &nbsp; https://t.me/mave12x
 
 ---
 
