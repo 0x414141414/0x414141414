@@ -10,7 +10,7 @@
 ### :man_technologist: About Me :
 mave12 Exploit Developer
 
-- 📫 How to reach me: TELEGRAM : &nbsp; https://t.me/mave12x
+- 📫 How to reach me: TELEGRAM : &nbsp; https://t.me/mave12x &br;
                               DISCORD : EvilOfGod#0104
   
 ---
