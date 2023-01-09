@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/102096655?v=4" width="100"/></p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=qwqdanchun&style=flat-square&color=blue" alt=""/>
 </p>
